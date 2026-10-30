@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-alpha-leaderboard",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Alpha Leaderboard - Bayesian TrueSkill Glicko-2 matchmaker and anti-Sybil collusion auditor with conservative rating scores.",
+  "tools": [
+    "update_trueskill_ratings",
+    "calculate_match_quality",
+    "detect_collusion_sybils"
+  ]
+}
